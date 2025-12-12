@@ -1,0 +1,20 @@
+understanding json is important to understand and obviously, handle data in api.
+as API communicate using json data 
+
+1.. validation
+dictionary typed data 
+pattern is fixed
+allows string, bool,integer,null, array , object even another mixed json and json 
+in array all typed data  
+
+string-- always use "_"(double quote)
+bool:=true/false
+.json can only carry json object ==>data
+2... parsaring
+parsaring is a method do convert a JSON into useable dictionary other wise it act more
+ like string in js
+//in JS
+JSON.parse(jsonvariable)
+//in python
+import JSON 
+JSON.parse (json variable)
