@@ -2,3 +2,7 @@
 any value accepted through route is always string
 2.@app.route('/employee/<int:id>')
 type casting techniques
+# TEMPLATES
+
+
+#PYTEST OUT PUT PREDICTION
